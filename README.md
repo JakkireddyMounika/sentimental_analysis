@@ -68,13 +68,6 @@ pip install -r requirements.txt
 3.Run the application
 streamlit run app.py
 
-**📁 Project Structure**
-├── app.py
-├── model.pkl
-├── vectorizer.pkl
-├── dataset.csv
-├── README.md
-
 **🔮 Future Enhancements**
 Use deep learning models (LSTM, BERT)
 Real-time tweet analysis using API
