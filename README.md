@@ -1,5 +1,5 @@
-**🍽️ Zomato vs Swiggy Sentiment Analysis
-📌 Project Overview**
+**🍽️ Zomato vs Swiggy Sentiment Analysis**
+**📌 Project Overview**
 This project analyzes user sentiments from social media (tweets) related to Zomato and Swiggy using Natural Language Processing (NLP) and Machine Learning.
 The system classifies sentiments as Positive, Negative, or Neutral and compares both platforms based on user opinions.
 
